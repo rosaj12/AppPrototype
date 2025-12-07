@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AppPrototype</string>
+    <string name="add_user">Adicionar Usuário</string>
+    <string name="name_hint">Nome</string>
+    <string name="email_hint">Email</string>
+    <string name="age_hint">Idade</string>
+    <string name="delete">Deletar</string>
+    <string name="no_users">Nenhum usuário cadastrado</string>
+    <string name="user_list">Lista de Usuários</string>
+</resources>
